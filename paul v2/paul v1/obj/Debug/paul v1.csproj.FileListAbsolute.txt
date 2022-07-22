@@ -1,0 +1,10 @@
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\bin\Debug\paul v1.exe.config
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\bin\Debug\paul v1.exe
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\bin\Debug\paul v1.pdb
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\obj\Debug\paul v1.csprojResolveAssemblyReference.cache
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\obj\Debug\paul_v1.PAUL.resources
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\obj\Debug\paul_v1.Properties.Resources.resources
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\obj\Debug\paul v1.csproj.GenerateResource.Cache
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\obj\Debug\paul v1.csproj.CoreCompileInputs.cache
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\obj\Debug\paul v1.exe
+C:\Users\madas\Desktop\P.A.U.L\paul v1\paul v1\obj\Debug\paul v1.pdb
